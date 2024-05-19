@@ -64,6 +64,24 @@ a {
   color: var(--slate);
 }
 
+.header-address-link:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.header-address-link:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
+.header-menu-link:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.header-menu-link:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+
 /* HERO */
 
 .hero {
@@ -86,6 +104,16 @@ a {
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
+  cursor: pointer;
+}
+
+.hero-btn:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.hero-btn:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
 
 /* FEATURE */
@@ -123,11 +151,12 @@ a {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-
-  .team-list {
-    background-color: #ffffff;
-  }
 }
+
+.team-list {
+  background-color: #ffffff;
+}
+
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
