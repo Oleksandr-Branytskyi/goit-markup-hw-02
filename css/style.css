@@ -65,21 +65,17 @@ a {
 }
 
 .header-address-link:hover {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .header-address-link:focus {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 .header-menu-link:hover {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .header-menu-link:focus {
-  color: #ffffff;
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 /* HERO */
